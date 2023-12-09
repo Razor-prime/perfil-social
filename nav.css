@@ -1,0 +1,143 @@
+body{
+    overflow-x: hidden;
+}
+
+.morado{
+    background-color: blueviolet;
+    padding-bottom: 1em;
+    position: relative;
+}
+
+.material-symbols-outlined{
+    color: white;
+    position: relative;
+    left: 22.1em;
+    top: 4.2em;
+
+}
+
+.buscador{
+    position: relative;
+    left: 37em;
+    top: 3.9em;
+    
+}
+
+.busquedas{
+    width: 42em;
+    height: 3em;
+    border-radius: 1em;
+    border: solid black 2px;
+}
+
+.lupilla{
+    position: relative;
+    right: 2.4em;
+    bottom: -0.5em;
+}
+
+.contenedor-logos{
+    position: relative;
+    padding: 1em;
+    width: 8em;
+    display: inline-block;
+    left: 80em;
+    top: 1em;
+}
+
+.amigos{
+    margin-right: 22px;
+}
+
+.mensajes{
+    margin-right: 26px;
+}
+
+a{
+    text-decoration: none;
+    
+   
+}
+
+.purple{
+    background: rgb(151, 29, 151);
+    padding-bottom: 3em;
+    border: solid black 2px;
+}
+
+.contenedor-navegacion{
+    
+    padding-bottom: 20px;
+    height: 3.9em;
+    width: 39em;
+}
+
+.contenedor-navegacion{
+    position: relative;
+    left: 34em;
+    bottom: 4em;
+}
+.contenedor-navegacion{
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor-navegacion{
+    align-items: flex-end;
+}
+
+
+.subtitulos,a{
+    color: white;
+}
+.yellow:hover{
+    color: rgb(218, 218, 10);
+    transition: 0.3s;
+}
+
+.subtitulos{
+    display: flex;
+    justify-content: space-between;
+    width: 36em;
+}
+
+.agregar{
+    position: relative;
+    left: 80em;
+    bottom: 21em;
+    border: solid black 2px;
+}
+
+.agregar{
+    background-color: rgb(255, 255, 255);
+    width: 6em;
+    height: 2em;
+    border-radius: 19%;
+    padding-left: 0.5em;
+}
+
+.chat{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 90em;
+    bottom: 23.3em;
+
+}
+
+.chat{
+    width: 6em;
+    height: 2em;
+    border-radius: 19%;
+    padding-left: 0.5em;
+    border: solid black 2px;
+}
+
+.black{
+    color: black;
+    
+}
+
+.black:hover{
+    color: blue;
+    transition: 0.2s;
+}

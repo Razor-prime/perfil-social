@@ -1,0 +1,12 @@
+.publicaciones {
+    background-color: white;
+    border: solid black 2px;
+    position: relative; 
+    height: 4em;
+    width: 46em;
+    left: 50em; 
+    bottom: 84em; 
+    border-radius: 3em;
+}
+
+

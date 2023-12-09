@@ -1,0 +1,26 @@
+.fotos{
+    background-color: white;
+    border: solid black 2px;
+    width: 30em;
+    height: 30em;
+    display: block;
+    margin-left: 0.5em;
+    border-radius: 10%;
+    margin-top: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+}
+
+.photo{
+    width: 13em;
+    height: 10em;
+    border-radius: 20%;
+    padding-left: 1em;
+}
+
+.linea{
+    position: relative;
+    margin-bottom: 4em;
+    width: 30em;
+}

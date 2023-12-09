@@ -1,0 +1,153 @@
+@media (max-width: 911px){
+    .material-symbols-outlined {
+        position: relative;
+        top: -0.9em;
+        left: -0.2em;
+    }
+}
+
+@media (max-width: 911px) {
+    .purple {
+        position: relative;
+        left: 0em;
+        top: -7em;
+        width: 58em;
+    }
+}
+
+@media (max-width: 911px) {
+    .morado {
+        position: relative;
+        width: 58em;
+    }
+}
+
+
+@media (max-width: 911px){
+    .buscador {
+        position: relative;
+        left: 10em;
+        top: -2.4em;
+    }
+}
+
+@media (max-width: 911px){
+    .contenedor-logos {
+        position: relative;
+        left: 23em;
+        top: 1em;
+    }
+}
+
+@media (max-width: 911px){
+    .fondo{
+        position: relative;
+        left: 0em;
+        top: -3.3em;
+        width: 58em;
+    }
+}
+
+@media (max-width: 911px){
+    .perfil{
+        position: relative;
+        left: 0em;
+        top: 0.1em;
+        width: 6em;
+        height: 5em;
+        left: 24.6em;
+    }
+}
+
+@media (max-width: 911px){
+    .media{
+        position: relative;
+        top: -0.1em;
+        left: 5.6em;
+        font-size: 3.0em;
+    }
+}
+
+@media (max-width: 911px){
+    .agregar{
+        position: relative;
+        left: 49em;
+        bottom: 14.5em;
+    }
+}
+
+@media (max-width: 911px){
+    .chat{
+        position: relative;
+        left: 38em;
+        bottom: 16.7em;
+    }
+}
+
+@media (max-width: 911px){
+    .contenedor-navegacion{
+        position: relative;
+        left: 9em;
+        bottom: 8em;
+    }
+}
+
+@media (max-width: 911px){
+    .detalles{
+        position: relative;
+        left:15em;
+        bottom: 5em;
+    }
+}
+
+@media (max-width: 911px){
+    .fotos{
+        position: relative;
+        left: 13em;
+        bottom: 5em;
+    }
+}
+
+@media (max-width: 911px) {
+    .comentario{
+        position: relative;
+        left: 10em;
+        bottom: 3em;
+        width: 37.2em;
+    }
+}
+
+@media (max-width: 911px){
+    .person{
+        position: absolute;
+        left: 2em;
+        bottom: 3em;
+    }
+}
+
+@media (max-width: 911px){
+    .publicaciones{
+        position: absolute;
+        left: 14em;
+        bottom: -78em;
+        width: 30em;
+        
+    }
+}
+
+
+@media (max-width: 911px){
+    .fotos-2{
+        position: absolute;
+        left: 13em;
+        bottom: -118em;
+        width: 30em;
+        
+    }
+}
+
+@media (max-width: 911px){
+    body{
+        overflow-x: hidden;
+    }
+}

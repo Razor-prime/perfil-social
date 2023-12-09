@@ -1,0 +1,28 @@
+.comentario{
+    background-color: white;
+    border: solid black 2px;
+    position: relative;
+    height: 8em;
+    width: 46em;
+    left: 50em;
+    bottom: 86em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.comentario{
+    border-radius:2em;
+}
+
+.comentarios{
+    width: 30em;
+    height: 3em;
+    border-radius:2em;
+}
+
+.person{
+    position: absolute;
+    left: 4em;
+    height: 3em;
+}

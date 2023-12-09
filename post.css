@@ -1,0 +1,35 @@
+.fotos-2 {
+    background-color: white;
+    border: solid black 2px;
+    width: 30em;
+    height: 30em;
+    position: relative;
+    left: 60em;
+    bottom: 77em;
+    border-radius: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.marcus {
+    position: a;
+    top: -3em;
+    left: 3em;
+}
+
+.comentario-de-marcus {
+    position: absolute;
+    top: 3em;
+    left: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.marcus-logo {
+    position: absolute;
+    width: 2em;
+    height: 3em;
+    top: 0.8em;
+    right: 27em;
+    border-radius: 50%;
+}

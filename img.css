@@ -1,0 +1,27 @@
+.perfil{ position: relative; 
+    width: 14em; 
+    height: 14em; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    left: 2em;
+    border: solid black 3px;
+
+} 
+
+.fondo{
+    background-color: rgb(118, 4, 224);
+    height: 11em;
+    border: solid black 1px;
+}
+
+h1{
+    position: relative;
+    left: 4.5em;
+    bottom: 2.5em;
+    color: white;
+    font-size: 4em;
+    height: 3em;
+    width: 10em;
+}
+
+
